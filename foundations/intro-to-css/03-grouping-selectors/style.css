@@ -2,3 +2,7 @@
     background-color: #1f1f1f;
     color: whitesmoke;
 }
+
+.second-button {
+    background-color: hsl(60, 100%, 82%);
+}

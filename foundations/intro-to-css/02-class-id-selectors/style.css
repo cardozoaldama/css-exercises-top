@@ -2,3 +2,8 @@
     background-color: rgb(255, 151, 139);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+#elementOneId {
+    color: rgb(66, 66, 255);
+    font-size: 36px;
+}

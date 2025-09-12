@@ -11,3 +11,9 @@
 .paragraph.coolerParagraph {
     font-size: 24px;
 }
+
+#anotherId {
+    background-color: rgb(113, 253, 113);
+    font-size: 24px;
+    font-weight: 700;
+}
